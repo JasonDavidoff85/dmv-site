@@ -43,7 +43,7 @@ small {
     display:grid;
     height: 95%;
     grid-template-columns: 100%;
-    grid-template-rows: 32vh 60vh;
+    grid-template-rows: 100%
 }
 
 /* Mobile */
