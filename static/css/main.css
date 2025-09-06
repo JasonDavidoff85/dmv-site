@@ -75,7 +75,6 @@ small {
         justify-self: center;
         margin: 1vw;
         max-height: 90vh;
-        overflow: scroll;
     }
     .title {
         font-family: titleFont;
